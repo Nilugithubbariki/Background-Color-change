@@ -1,0 +1,46 @@
+body{
+    margin: 0;
+    padding: 20px 100px;
+
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+img{
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+}
+p{
+    font-size: 18px;
+    text-align: justify;
+}
+.btn{
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    border: 2px solid grey;
+    border-radius: 50%;
+    cursor: pointer;
+}
+#white{
+    background-color: white;
+}
+#blue{
+    background-color: blue;
+}
+#green{
+    background-color: green;
+}
+#cyan{
+    background-color: cyan;
+}
+#black{
+    background-color:black;
+}
+#color-switcher{
+    /* display: flex; */
+    /* flex-direction: row-reverse; */
+    text-align: right;
+}
